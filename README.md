@@ -1,0 +1,2 @@
+# ajSurvey
+Scripts for landsurveying
